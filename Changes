@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+    Lots more dependencies
 
 1.101110  2010-04-21 15:55:55 EST5EDT
     First version
